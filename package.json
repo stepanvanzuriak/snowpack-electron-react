@@ -1,0 +1,43 @@
+{
+  "name": "snowpack-electron-react",
+  "version": "0.0.1",
+  "description": "Template for snowpack, electron and react",
+  "main": "main.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "scripts": {
+    "dev": "concurrently \"npm run snowpack-dev\" \"npm run electron-start\"",
+    "build": "npm run snowpack-build",
+    "electron-start": "electron .",
+    "electron-prod": "cross-env NODE_ENV=production electron .",
+    "snowpack-dev": "snowpack dev --open none",
+    "snowpack-prepare": "snowpack install",
+    "snowpack-build": "snowpack build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stepanvanzuriak/snowpack-electron-react.git"
+  },
+  "keywords": [
+    "snowpack",
+    "electron",
+    "react"
+  ],
+  "author": "Stepan Vanzuriak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stepanvanzuriak/snowpack-electron-react/issues"
+  },
+  "homepage": "./",
+  "devDependencies": {
+    "@snowpack/app-scripts-react": "^1.0.4",
+    "@snowpack/plugin-webpack": "^1.0.5",
+    "concurrently": "^5.2.0",
+    "cross-env": "^7.0.2",
+    "electron": "^9.0.0",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "snowpack": "^2.0.3"
+  }
+}
