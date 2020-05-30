@@ -1,6 +1,4 @@
-# snowpack-electron-react
-
-Template for Electron, Snowpack and React
+# Template for Electron, Snowpack and React
 
 ## Scripts
 
