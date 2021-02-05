@@ -16,3 +16,12 @@
 
 `snowpac-build` - Start snowpack build
 
+## Changes
+
+### v0.0.2
+
+All dependencies version updated: Snowpack to v3, Electron to v11, React to v17.0.1
+
+### v0.0.1
+
+Initial release

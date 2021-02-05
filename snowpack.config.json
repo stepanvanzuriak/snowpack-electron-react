@@ -1,9 +1,10 @@
 {
   "extends": "@snowpack/app-scripts-react",
-  "scripts": {
-    "mount:src": "mount src --to /dist"
+  "mount": {
+    "src": { "url": "/dist" }
   },
-  "plugins": [
-    "@snowpack/plugin-webpack"
-  ]
+  "buildOptions": {
+    "baseUrl": "./"
+  },
+  "plugins": ["@snowpack/plugin-webpack"]
 }
