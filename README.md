@@ -12,10 +12,6 @@
 
 `snowpack-dev` - Start only snowpack dev
 
-`snowpack-prepare` - Start snowpack install
-
-`snowpac-build` - Start snowpack build
-
 ## Changes
 
 ### v0.0.2
