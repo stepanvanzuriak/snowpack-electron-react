@@ -32,12 +32,12 @@
   "homepage": "./",
   "devDependencies": {
     "@snowpack/app-scripts-react": "^2.0.1",
-    "@snowpack/plugin-webpack": "^2.3.0",
+    "@snowpack/plugin-webpack": "^2.3.1",
     "concurrently": "^6.0.0",
     "cross-env": "^7.0.3",
     "electron": "12.0.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
-    "snowpack": "^3.0.13"
+    "snowpack": "^3.1.2"
   }
 }
