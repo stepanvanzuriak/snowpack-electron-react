@@ -33,7 +33,7 @@
   "devDependencies": {
     "@snowpack/app-scripts-react": "^2.0.1",
     "@snowpack/plugin-webpack": "^2.3.1",
-    "concurrently": "^6.0.1",
+    "concurrently": "^6.0.2",
     "cross-env": "^7.0.3",
     "electron": "12.0.2",
     "react": "^17.0.2",
