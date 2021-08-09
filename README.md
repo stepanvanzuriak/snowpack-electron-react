@@ -14,6 +14,9 @@
 
 ## Changes
 
+### v0.1.0
+All dependencies version updated. Configuration moved from json to mjs format
+
 ### v0.0.2
 
 All dependencies version updated: Snowpack to v3, Electron to v11, React to v17.0.1
