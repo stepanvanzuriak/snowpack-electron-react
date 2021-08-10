@@ -2935,7 +2935,7 @@ signal-exit@^3.0.0, signal-exit@^3.0.2, signal-exit@^3.0.3:
   resolved "https://registry.yarnpkg.com/signal-exit/-/signal-exit-3.0.3.tgz#a1410c2edd8f077b08b4e253c8eacfcaf057461c"
   integrity sha512-VUJ49FC8U1OxwZLxIbTTrDvLnf/6TDgxZcK8wxR8zs13xpx7xbG60ndBlhNrFi2EMuFRoeDoJO7wthSLq42EjA==
 
-skypack@^0.3.0:
+skypack@^0.3.2:
   version "0.3.2"
   resolved "https://registry.yarnpkg.com/skypack/-/skypack-0.3.2.tgz#9df9fde1ed73ae6874d15111f0636e16f2cab1b9"
   integrity sha512-je1pix0QYER6iHuUGbgcafRJT5TI+EGUIBfzBLMqo3Wi22I2SzB9TVHQqwKCw8pzJMuHqhVTFEHc3Ey+ra25Sw==
@@ -2963,10 +2963,10 @@ smart-buffer@^4.1.0:
   resolved "https://registry.yarnpkg.com/smart-buffer/-/smart-buffer-4.2.0.tgz#6e1d71fa4f18c05f7d0ff216dd16a481d0e8d9ae"
   integrity sha512-94hK0Hh8rPqQl2xXc3HsaBoOXKV20MToPkcXvwbISWLEs+64sBq5kFgn2kJDHb1Pry9yrP0dxrCI9RRci7RXKg==
 
-snowpack@^3.8.3:
-  version "3.8.3"
-  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-3.8.3.tgz#5f136dcbe051189ce20092acd36759d03e6cbf87"
-  integrity sha512-nD699xWIDk9nGH4V9xKjgIVPA8jXWp/crUG46mu3/11rrdEv94v4xV/j373w3EvegGVQ3JdA5mlNpxDU8wk5uw==
+snowpack@^3.8.6:
+  version "3.8.6"
+  resolved "https://registry.yarnpkg.com/snowpack/-/snowpack-3.8.6.tgz#0bef5c071caef86a2f91aa5c3d5b70d0c2e2793c"
+  integrity sha512-EZ3Y7RtTiPvxnVFTKPfkvi2PKBrprXCvOHKWQQLBkHonf+xdtG51RiNjtrRLJeCjislAlD6OoeGHUxz76ToGHw==
   dependencies:
     "@npmcli/arborist" "^2.6.4"
     bufferutil "^4.0.2"
@@ -3010,7 +3010,7 @@ snowpack@^3.8.3:
     rimraf "^3.0.0"
     rollup "~2.37.1"
     signal-exit "^3.0.3"
-    skypack "^0.3.0"
+    skypack "^0.3.2"
     slash "~3.0.0"
     source-map "^0.7.3"
     strip-ansi "^6.0.0"
