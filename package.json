@@ -32,7 +32,7 @@
   "devDependencies": {
     "concurrently": "^7.3.0",
     "cross-env": "^7.0.3",
-    "electron": "19.0.10",
+    "electron": "20.0.1",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "snowpack": "^3.8.8"
