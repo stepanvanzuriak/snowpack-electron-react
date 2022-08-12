@@ -2,15 +2,15 @@
 
 ## Scripts
 
-`dev` - Start snowpack dev and electron dev
+**dev** - Start snowpack dev and electron dev
 
-`build` - Snowpack build
+**build** - Snowpack build
 
-`electron-start` - Start only electron
+**electron-start** - Start only electron
 
-`electron-prod` - Start only electron and set source as build folder
+**electron-prod** - Start only electron and set source as build folder
 
-`snowpack-dev` - Start only snowpack dev
+**snowpack-dev** - Start only snowpack dev
 
 ## Changes
 
