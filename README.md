@@ -14,7 +14,7 @@
 
 ## Changes
 
-### v0.1.0
+### v0.2.0
 All dependencies version updated. React updated to 18
 
 ### v0.1.0
