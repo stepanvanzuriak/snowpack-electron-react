@@ -15,6 +15,9 @@
 ## Changes
 
 ### v0.1.0
+All dependencies version updated. React updated to 18
+
+### v0.1.0
 All dependencies version updated. Configuration moved from json to mjs format
 
 ### v0.0.2
