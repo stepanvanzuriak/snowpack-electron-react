@@ -15,14 +15,14 @@
 ## Changes
 
 ### v0.2.0
-All dependencies version updated. React updated to 18
+All dependencies updated. React updated to 18
 
 ### v0.1.0
-All dependencies version updated. Configuration moved from json to mjs format
+All dependencies updated. Configuration moved from json to mjs format
 
 ### v0.0.2
 
-All dependencies version updated: Snowpack to v3, Electron to v11, React to v17.0.1
+All dependencies updated: Snowpack to v3, Electron to v11, React to v17.0.1
 
 ### v0.0.1
 
