@@ -8,17 +8,20 @@
 
 **electron-start** - Start only electron
 
-**electron-prod** - Start only electron and set source as build folder
+**electron-prod** - Start only electron and set source as build 
+folder
 
 **snowpack-dev** - Start only snowpack dev
 
 ## Changes
 
 ### v0.2.0
-All dependencies updated. React updated to 18
+
+All dependencies are updated. React updated to 18
 
 ### v0.1.0
-All dependencies updated. Configuration moved from json to mjs format
+
+All dependencies are updated. Configuration moved from JSON to mjs format
 
 ### v0.0.2
 
