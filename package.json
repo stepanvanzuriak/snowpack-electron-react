@@ -30,7 +30,7 @@
   },
   "homepage": "./",
   "devDependencies": {
-    "concurrently": "^8.2.1",
+    "concurrently": "^8.2.2",
     "cross-env": "^7.0.3",
     "electron": "27.0.0",
     "react": "^18.2.0",
